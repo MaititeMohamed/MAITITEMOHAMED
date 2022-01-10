@@ -5,6 +5,7 @@
 
 I am a  full stack developer .NET 
 
+<img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Illustration of dev" width=350px height=465px/>
 <div align="center">
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=MaititeMohamed&theme=tokyonight&show_icons=true" height=150 />

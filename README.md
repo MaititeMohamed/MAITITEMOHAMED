@@ -11,7 +11,9 @@ I am a  full stack developer .NET
   <img src="https://github-readme-stats.vercel.app/api?username=MaititeMohamed&theme=tokyonight&show_icons=true" height=150 />
 </a>
   <br>
-  
+  <a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaititeMohamed&langs_count=5&theme=tokyonight" height=150 />
+</a>
 <br>
 <a>
   <img src="https://activity-graph.herokuapp.com/graph?username=MaititeMohamed&theme=rogue" width=50% height=200 alt="graph"/>

@@ -3,7 +3,7 @@
 
 
 
-I am a  full stack developer .NET 
+I am a  full stack developer 
 
 <img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Illustration of dev" width=350px height=465px/>
 <div align="center">

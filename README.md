@@ -1,4 +1,4 @@
-# Hello world I'm MAITITE MOHAMED 👋
+# Hello I'm MAITITE MOHAMED 👋
 
 
 

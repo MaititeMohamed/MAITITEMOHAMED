@@ -1,6 +1,18 @@
 # Hello I'm MAITITE MOHAMED 👋
 
 
+🔭 I’m currently working on Spring boot web applications
+
+🌱 I’m currently learning Java and Spring boot framework
+
+👯 I’m looking to collaborate on web application projects
+
+💬 Ask me about Java and C# 
+
+📫 Reach me at maititemohamed@gmail.com
+
+⚡ Hubbies I like gaming and coding 
+
 
 
 I am a  full stack developer 

@@ -1,5 +1,6 @@
 # Hello I'm MAITITE MOHAMED 👋
 
+I am a  full stack developer 
 
 🔭 I’m currently working on Spring boot web applications
 
@@ -13,9 +14,6 @@
 
 ⚡ Hubbies I like gaming and coding 
 
-
-
-I am a  full stack developer 
 
 <img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Illustration of dev" width=350px height=465px/>
 <div align="center">

@@ -10,8 +10,6 @@ I am a  full stack developer
 
 💬 Ask me about Java and C# 
 
-📫 Reach me at maititemohamed@gmail.com
-
 ⚡ Hubbies I like gaming and coding 
 
 

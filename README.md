@@ -4,23 +4,10 @@
 
 🔭 Currently working on **Spring Boot web applications**  
 🌱 Currently learning **Java, Spring Boot, Angular, and Flutter**  
-👯 Looking to collaborate on **web and full-stack projects**  
-💬 Ask me about **Java, C#, and backend development**  
+💬 Ask me about **Java and backend development**  
 ⚡ Hobbies: Gaming 🎮 and Coding 💻  
 
 <img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Developer illustration" width="320"/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaititeMohamed&theme=tokyonight&show_icons=true" height="150"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaititeMohamed&langs_count=6&theme=tokyonight" height="150"/>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MaititeMohamed&theme=rogue" width="70%" />
-</div>
 
 ---
 
@@ -28,7 +15,6 @@
 
 ### 🧠 Languages & Backend
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 
 ### 🎨 Frontend

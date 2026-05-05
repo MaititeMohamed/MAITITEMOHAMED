@@ -1,46 +1,137 @@
-# Hello, I'm MAITITE MOHAMED 👋
+# 👋 Hello, I'm MAITITE MOHAMED
 
-💻 Full-Stack Developer passionate about building scalable web and mobile applications.
-
-🔭 Currently working on **Spring Boot web applications**  
-🌱 Currently learning **Java, Spring Boot, Angular, and Flutter**  
-💬 Ask me about **Java and backend development**  
-⚡ Hobbies: Gaming 🎮 and Coding 💻  
-
-<img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Developer illustration" width="320"/>
+💻 Full-Stack Developer | Java & Spring Boot Enthusiast  
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 About Me
 
-### 🧠 Languages & Backend
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+- 🔭 Working on **Spring Boot web applications**
+- 🌱 Learning **Java, Spring Boot, Angular & Flutter**
+- 💬 Ask me about **Java & Backend Development**
+- ⚡ Passionate about **Coding & Gaming**
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Angular](https://skillicons.dev/icons?i=angular)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
+### 🧰 Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Trello](https://skillicons.dev/icons?i=trello)
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
-![Adobe XD](https://img.shields.io/badge/AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
-![Illustrator](https://img.shields.io/badge/Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+---
+
+## 🎨 Design Tools
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![Illustrator](https://skillicons.dev/icons?i=ai)
+
+---
+
+## 📌 Featured Projects (Coming Soon 🚀)
+
+- 🔹 Full-stack Spring Boot + Angular App  
+- 🔹 Mobile App with Flutter  
+- 🔹 SaaS Platform (in progress)
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(add your email)*
+
+---
+
+## ✨ Quote
+
+> "Code is not just code, it's a solution."
+
+---# 👋 Hello, I'm MAITITE MOHAMED
+
+💻 Full-Stack Developer | Java & Spring Boot Enthusiast  
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Working on **Spring Boot web applications**
+- 🌱 Learning **Java, Spring Boot, Angular & Flutter**
+- 💬 Ask me about **Java & Backend Development**
+- ⚡ Passionate about **Coding & Gaming**
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+### 🎨 Frontend
+![Angular](https://skillicons.dev/icons?i=angular)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### 📱 Mobile
+![Flutter](https://skillicons.dev/icons?i=flutter)
+
+### 🗄️ Database
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🧰 Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Trello](https://skillicons.dev/icons?i=trello)
+
+---
+
+## 🎨 Design Tools
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![Illustrator](https://skillicons.dev/icons?i=ai)
+
+---
+
+## 📌 Featured Projects (Coming Soon 🚀)
+
+- 🔹 Full-stack Spring Boot + Angular App  
+- 🔹 Mobile App with Flutter  
+- 🔹 SaaS Platform (in progress)
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(add your email)*
+
+---
+
+## ✨ Quote
+
+> "Code is not just code, it's a solution."
 
 ---
